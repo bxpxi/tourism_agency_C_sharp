@@ -1,0 +1,9 @@
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\bin\Debug\proiect_csharp_sockets_2.exe.config
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\bin\Debug\proiect_csharp_sockets_2.exe
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\bin\Debug\proiect_csharp_sockets_2.pdb
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.csproj.AssemblyReference.cache
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.Properties.Resources.resources
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.csproj.GenerateResource.cache
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.csproj.CoreCompileInputs.cache
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.exe
+C:\Users\boros\._AN2\Sem2\MPP\teme\proiect_csharp_sockets_2\proiect_csharp_sockets_2\obj\Debug\proiect_csharp_sockets_2.pdb
